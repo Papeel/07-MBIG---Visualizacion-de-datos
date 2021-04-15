@@ -34,3 +34,15 @@ URL: <a href="https://web-platform-2nqwna.stackblitz.io">https://web-platform-2n
   <a
     href="https://ibb.co/grxnGZs"><img src="https://i.ibb.co/fXscbdm/Dispersi-n-con-burbujas-Films-por-MDB-Rating-media-IMDB-Votes-total-Ratio-genero-y-filtrado-por-pres.png" alt="Dispersi-n-con-burbujas-Films-por-MDB-Rating-media-IMDB-Votes-total-Ratio-genero-y-filtrado-por-pres" border="0" /></a>
   
+# Visualización - AG3
+Google colab:
+  <a
+    href="https://colab.research.google.com/drive/1q5OY3btmjHod7xomVJ8NA6URH56_5Xi7?usp=sharing">https://colab.research.google.com/drive/1q5OY3btmjHod7xomVJ8NA6URH56_5Xi7?usp=sharing</a>
+    <br>
+    <br>
+    <br>
+<a href="https://ibb.co/fqSV0cL"><img src="https://i.ibb.co/Nt3gY4b/G3-1.png" alt="G3-1" border="0" /></a>
+<br>
+<a href="https://ibb.co/6Hv4JbY"><img src="https://i.ibb.co/LxQCh6S/G3-2.png" alt="G3-2" border="0" /></a>
+<br>
+<a href="https://ibb.co/yyg9zpb"><img src="https://i.ibb.co/hW26Gct/G3-3.png" alt="G3-3" border="0" /></a>
