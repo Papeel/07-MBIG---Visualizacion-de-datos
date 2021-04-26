@@ -3,6 +3,7 @@
 - [AG1](#ag1)
 - [AG2](#ag2)
 - [AG3](#ag3)
+- [Seminario-final](#seminario-final)
 
 
 ## AG1
@@ -53,4 +54,12 @@ Google colab:
 <br>
 <a href="https://ibb.co/yyg9zpb"><img src="https://i.ibb.co/hW26Gct/G3-3.png" alt="G3-3" border="0" /></a>
 
+## Seminario-final
 
+URL: <a name="https://actividad-seminario.stackblitz.io">https://actividad-seminario.stackblitz.io</a>
+<br>
+EDITOR: <a name="https://stackblitz.com/edit/actividad-seminario?file=index.html">https://stackblitz.com/edit/actividad-seminario?file=index.html</a>
+<br>
+FUENTE: <a href="http://catalogo.datosabiertos.gob.ec/dataset/viaticos-informes-y-justificativos-ministerio-de-relaciones-exteriores-y-movilidad-humana">http://catalogo.datosabiertos.gob.ec/dataset/viaticos-informes-y-justificativos-ministerio-de-relaciones-exteriores-y-movilidad-humana</a>
+<br>
+PDF:  <a href="https://github.com/Papeel/07-MBIG---Visualizacion-de-datos/blob/main/Seminario%20final.pdf">https://github.com/Papeel/07-MBIG---Visualizacion-de-datos/blob/main/Seminario%20final.pdf</a>
